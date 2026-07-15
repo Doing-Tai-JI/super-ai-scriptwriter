@@ -1,0 +1,4 @@
+interface:
+  display_name: "超级AI编剧"
+  short_description: "从创意开发到会诊、改稿和定稿交付的完整中文影视剧本工作流"
+  default_prompt: "使用 $super-ai-scriptwriter 把我的想法发展成一份有推进、可拍、可演并经过审核的中文剧本。"
